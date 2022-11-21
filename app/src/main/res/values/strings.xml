@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DIY Creative App</string>
+
+    <string name="splash_screen">DIY Creative</string>
+
+    <string name="button_next">Next</string>
+    <string name="button_get_started">Get Started</string>
+
+<!--    <string name=""-->
+
+    <string name="register_title">Daftar</string>
+    <string name="register_desc">Daftarkan akun anda untuk memulai</string>
+
+    <string name="login_title">Masuk</string>
+    <string name="login_desc">Silahkan masuk untuk melanjutkan</string>
+
+    <!-- login & register -->
+    <string name="register_btn">Daftar</string>
+    <string name="login_btn">Masuk</string>
+    <string name="register_to_login">Sudah mempunyai akun? Login</string>
+    <string name="login_to_register">Belum mempunyai akun? Daftar</string>
+    <string name="other_method">Atau lanjutkan dengan</string>
+    <string name="forgot_password">Lupa password?</string>
+    <string name="info_name">Nama</string>
+    <string name="info_phone_number">Nomor Telepon</string>
+    <string name="info_email">Email</string>
+    <string name="info_password">Password</string>
+</resources>
